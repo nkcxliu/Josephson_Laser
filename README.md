@@ -19,3 +19,5 @@ The code is in Mathematica.
 -- ABOCC_eigenstates_and_Noise.nb
 
   This file includes the calculation for the eigenstates of the ABOCC operator. It generates the figs. 10-13 in the Supplementary material.
+
+[![DOI](https://zenodo.org/badge/381074206.svg)](https://zenodo.org/badge/latestdoi/381074206)
