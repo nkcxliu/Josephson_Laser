@@ -20,4 +20,4 @@ The code is in Mathematica.
 
   This file includes the calculation for the eigenstates of the ABOCC operator. It generates the figs. 10-13 in the Supplementary material.
 
-[![DOI](https://zenodo.org/badge/381074206.svg)](https://zenodo.org/badge/latestdoi/381074206)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5016168.svg)](https://doi.org/10.5281/zenodo.5016168)
